@@ -18,8 +18,8 @@ Logging: Stores interactions for debugging and auditing.
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/mcp-flask.git
-cd mcp-flask
+git clone https://github.com/MrBarak/mcp_project_with_flask.git
+cd mcp_project_with_flask
 
 2️⃣ Set Up a Virtual Environment
 
@@ -54,4 +54,4 @@ Run the client to interact with the system:
 
 python client.py
 
-Example Interaction
+Now you can give prompts on terminal
